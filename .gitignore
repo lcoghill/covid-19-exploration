@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 Raw_Data/
-.ipynb
+*.ipynb
